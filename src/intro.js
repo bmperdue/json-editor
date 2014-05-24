@@ -1,8 +1,8 @@
-/*! JSON Editor v0.6.8 - JSON Schema -> HTML Editor
- * By Jeremy Dorn - https://github.com/jdorn/json-editor/
+/*! JSON Converter v0.5.0 - JSON Schema -> HTML Editor
+ * By Bryan Perdue - https://github.com/jdorn/json-editor/
  * Released under the MIT license
  *
- * Date: 2014-05-09
+ * Date: 2014-05-24
  */
 
 /**
